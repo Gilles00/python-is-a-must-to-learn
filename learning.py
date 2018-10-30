@@ -1,0 +1,1 @@
+print("GORDON IS LEARNING PYTHON")
